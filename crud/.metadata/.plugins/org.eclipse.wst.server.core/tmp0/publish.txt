@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Wed Dec 14 16:48:09 IST 2016
+org.eclipse.jst.j2ee.server\:/binary\:C\:\\Users\\USER\\.m2\\repository\\org\\springframework\\spring-web\\4.3.3.RELEASE\\spring-web-4.3.3.RELEASE.jar=WEB-INF/lib/spring-web-4.3.3.RELEASE.jar
+org.eclipse.jst.j2ee.server\:crudappbackend=WEB-INF/lib/crudappbackend-0.0.1-SNAPSHOT.jar
